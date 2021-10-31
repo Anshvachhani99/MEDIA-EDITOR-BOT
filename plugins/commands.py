@@ -13,13 +13,13 @@ For More hit /help </b>
 
 
 HELP_MSG = """
-Follow the step..
+<b> Follow the step..
 
 ✅First send me an media that you need to replace the other one
 
 ✅Send the link of the media that you need to Edit
 
-NB: Note the bot is admin in the channel 
+NB: Note the bot is admin in the channel </b>
 
 """
 
