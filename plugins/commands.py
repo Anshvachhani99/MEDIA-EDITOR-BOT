@@ -1,13 +1,13 @@
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-START_MSG = """**Hi {}
+START_MSG = """<b> Hi {}
   
-I am an Media Editor bot ...
+✅ Media Editor Bot 
 
-You can edit document,video,gif,audio,photo etc..
+✅ You can edit document,video,gif,audio,photo etc..
 
-For More hit /help **
+For More hit /help </b>
 
 """
 
@@ -15,9 +15,9 @@ For More hit /help **
 HELP_MSG = """
 Follow the step..
 
-🌀First send me an media that you need to replace the other one
+✅First send me an media that you need to replace the other one
 
-🌀Send the link of the media that you need to Edit
+✅Send the link of the media that you need to Edit
 
 NB: Note the bot is admin in the channel 
 
